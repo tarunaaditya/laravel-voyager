@@ -1,14 +1,15 @@
 {
-    "name": "laravel/laravel",
+    "name": "adityataruna/laravel-voyager",
     "type": "project",
-    "description": "The Laravel Framework.",
+    "description": "The Laravel Framework and Voyager.",
     "keywords": [
         "framework",
-        "laravel"
+        "laravel",
+        "Laravel"
     ],
     "license": "MIT",
     "require": {
-        "php": "^7.1.3",
+        "php": "^7.3",
         "fideloper/proxy": "^4.0",
         "laravel/framework": "5.8.*",
         "laravel/tinker": "^1.0",
